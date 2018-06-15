@@ -1,0 +1,7 @@
+newsfeed:
+mailbox:
+notifications:
+slideshow:
+photo:
+video:
+friends:
